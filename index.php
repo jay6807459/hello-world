@@ -1,3 +1,2 @@
 <?php
-phpinfo();
-echo 'aaaaaaaaaaaaaaaa';
+echo 'this commition is from phpstrom';
