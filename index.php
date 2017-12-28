@@ -84,7 +84,6 @@ class BeautifulSheep extends Sheep{
 }
 
 $wolf = new wolf('灰太狼');
-$test = new PleasantSheep();
 $wolf->attach(new PleasantSheep());
 $wolf->attach(new LazySheep());
 $wolf->attach(new BeautifulSheep());
