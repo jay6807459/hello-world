@@ -4,3 +4,4 @@ git home test;
 git aliyun test;
 git phpstrom test;
 echo date('Y-m-d');
+echo 77777;
